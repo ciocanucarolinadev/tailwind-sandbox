@@ -4,14 +4,14 @@ A comprehensive learning and experimentation project for mastering Tailwind CSS.
 
 ## 📋 Table of Contents
 
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Topics Covered](#topics-covered)
-- [How It Works](#how-it-works)
-- [License](#license)
+- [Project Overview](#-project-overview)
+- [Features](#-features)
+- [Project Structure](#-project-structure)
+- [Getting Started](#-getting-started)
+- [Usage](#-usage)
+- [Topics Covered](#-topics-covered)
+- [How It Works](#-how-it-works)
+- [License](#-license)
 
 ## 🎯 Project Overview
 
