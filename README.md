@@ -11,7 +11,6 @@ A comprehensive learning and experimentation project for mastering Tailwind CSS.
 - [Usage](#usage)
 - [Topics Covered](#topics-covered)
 - [How It Works](#how-it-works)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## 🎯 Project Overview
